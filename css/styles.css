@@ -329,16 +329,8 @@ section .pqte{
     display: inline-block;
 }
 .images1{
-    width: 180px;
-    height: 180px;
-    margin-left: 70%;   
-    margin-bottom: 0px;
-    margin-top: 1px;
-    align-items: center;
-    transition: transform .2s;  
-    border-radius: 5%; 
-    background-color: lightblue;
-    display: inline-block;
+    margin-left: 5%;
+    display: block;   
 
 }
 @media(min-width: 100px){
